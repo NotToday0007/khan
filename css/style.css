@@ -1,0 +1,93 @@
+
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 33px;
+    font-weight: 1000;
+}
+h3{
+    font-size: 21px;
+    font-weight: 1100;
+}
+p{
+    font-size: 15px;
+    color: darkolivegreen;
+    font-weight: 700;
+}
+.name-highlight{
+    color: orange;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+.top-bgimg{
+    background-image: url("image/top-bgimg.png");
+    background-repeat: no-repeat;
+
+}
+section{
+    height: 500px;
+    padding-bottom: 110px;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient( 40deg,grey,tomato);
+    padding: 8px 10px;
+    border-radius: 3px;
+    color: white;
+    font-weight: 900;
+}
+.dream-big{
+ background-image: url(image/dream-bg.png);
+ background-repeat: no-repeat;
+ background-position: right;
+}
+.exp{
+    font-size: 30px;
+    color: red;
+    margin: 3px;
+}
+.expert{
+    box-shadow: 10px 10px 50px grey;
+    border-radius: 5px;
+    height: 75%;
+    background-color: whitesmoke;
+}
+.last-area{
+    background-image: url(image/0111.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    
+}
+#first{
+    border-left: 6px solid violet;
+}
+#second{
+    border-left: 6px solid lightsalmon;
+}
+#khan{
+    font-size: 35px;
+    margin-left: 20px;
+    padding: 5px;
+    font: weight 2000px;;
+    color: black;
+
+}
+footer p{
+    text-align: center;
+    color: black;
+    font-size: 15px;
+    font-weight: 900;
+}
